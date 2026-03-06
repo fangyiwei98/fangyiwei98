@@ -1,5 +1,8 @@
 ## Hi 👋, I'm Yiwei Fang
 
+- 🔭 I’m currently a phd student at Hohai University (HHU).
+- 😄 My research interest includes remote sensing image processing, transfer learning, unsupervised domain adaptation, domain generalization.
+- 📫 How to contact me: yiweifang@hhu.edu.cn
 <!--
 **fangyiwei98/fangyiwei98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
