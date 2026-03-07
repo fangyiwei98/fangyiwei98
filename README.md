@@ -9,7 +9,7 @@
 
 ![Fang yiwei's GitHub Stats](https://github-readme-stats1-delta-ruddy.vercel.app/api?username=fangyiwei98&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats1-delta-ruddy.vercel.app/api/top-langs/?username=fangyiwei98&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats1-delta-ruddy.vercel.app/api/top-langs/?username=fangyiwei98&layout=donut&theme=radical)
 
 <!--
 **fangyiwei98/fangyiwei98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
