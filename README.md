@@ -4,6 +4,11 @@
 - 😄 My research interest includes remote sensing image processing, transfer learning, unsupervised domain adaptation, domain generalization.
 - 📫 How to contact me: yiweifang@hhu.edu.cn
 
+
+### 🔥 GitHub Stats
+
+![Fang yiwei's GitHub Stats](https://github-readme-stats1-delta-ruddy.vercel.app/api?username=fangyiwei98&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats1-delta-ruddy.vercel.app/api/top-langs/?username=fangyiwei98&layout=compact&theme=radical)
 
 <!--
