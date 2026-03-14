@@ -8,7 +8,7 @@
 ### 🔥 GitHub Stats
 
 <!--![Fang yiwei's GitHub Stats](https://github-readme-stats1-delta-ruddy.vercel.app/api?username=fangyiwei98&show_icons=true&theme=radical)-->
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fangyiwei98&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats1-delta-ruddy.vercel.app/api/top-langs/?username=fangyiwei98&layout=donut&theme=radical)
 
 <!--
