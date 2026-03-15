@@ -11,6 +11,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fangyiwei98&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats1-delta-ruddy.vercel.app/api/top-langs/?username=fangyiwei98&layout=donut&theme=radical)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fangyiwei98" alt="fangyiwei98" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-greatv.vercel.app/api?username=fangyiwei98&show_icons=false&theme=radical&hide_border=true&hide_title=true&include_all_commits=true?count_private=true&hide=prs,issues,contribs" alt="fangyiwei98" /></p>
+
+
 <!--
 **fangyiwei98/fangyiwei98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
