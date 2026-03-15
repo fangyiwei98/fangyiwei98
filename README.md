@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Yiwei Fang
 
 - 🔭 I’m currently a phd student at Hohai University (HHU).
-- 😄 My research interest includes remote sensing image processing, transfer learning, unsupervised domain adaptation, domain generalization.
+- 😄 My research interest includes remote sensing image processing, transfer learning, unsupervised domain adaptation, and domain generalization.
 - 📫 How to contact me: yiweifang@hhu.edu.cn
 
 
