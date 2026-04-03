@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Yiwei Fang
 
-- 🔭 I’m currently a phd student at Hohai University (HHU).
+- 🔭 I’m currently a phd candidate at Hohai University (HHU).
 - 😄 My research interest includes remote sensing image processing, transfer learning, unsupervised domain adaptation, domain generalization, and Vision Foundation Model fine-tuning.
 - 📫 How to contact me: yiweifang@hhu.edu.cn
 
